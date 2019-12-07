@@ -1,0 +1,4 @@
+win:
+	chromedriver:
+		version:76.0.3809.126
+		arch:32
